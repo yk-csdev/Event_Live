@@ -1,13 +1,4 @@
-
-TITLE: 
-Wedding Free HTML5 Bootstrap Template for Wedding Website
-AUTHOR:
-DESIGNED & DEVELOPED by QBOOTSTRAP.COM
-
-Website: 		http://qbootstrap.com/
-Twitter: 		http://twitter.com/Q_bootstrap
-Facebook: 		https://www.facebook.com/Qbootstrap
-
+This website was developed during the 2019-2020 COVID-19 lockdown to enable live streaming of events, providing a virtual platform for audiences to engage with content remotely. It was designed to offer a seamless, real-time streaming experience for events such as conferences, performances, and social gatherings. The platform aimed to connect people during a time of social distancing. Built with scalability in mind, it allowed easy access and interaction for both event hosts and viewers.
 CREDITS:
 
 Bootstrap
